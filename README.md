@@ -1,4 +1,3 @@
-Here's the README formatted for GitHub:
 
 ```markdown
 # Horse Racing Prediction Project
